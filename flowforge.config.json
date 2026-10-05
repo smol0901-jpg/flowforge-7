@@ -1,0 +1,4 @@
+{
+  "defaults": { "gs": 20, "snap": true, "route": "curve", "bg": "dark", "splash": true },
+  "palette": { "ccp": "#f38ba8", "tank": "#89b4fa" }
+}
